@@ -1,0 +1,4 @@
+aiogram==2.16
+pyzbar
+pillow
+qrcode
